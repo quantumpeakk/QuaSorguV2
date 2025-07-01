@@ -1,5 +1,5 @@
 # QuaSorgu Paneli V2.00
-
+Tasarımda biraz hata oldu onun dışı herşey mükemmel çalışıyor
 ## TERMUX KURULUM:
 
 ```
