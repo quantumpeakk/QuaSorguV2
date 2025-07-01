@@ -18,7 +18,7 @@ pip install requests
 python -m pip install --upgrade pip
 ```
 ```
-https://github.com/quantumpeakk/QuaSorguV2.git
+git clone https://github.com/quantumpeakk/QuaSorguV2.git
 ```
 ```
 cd QuaSorguV2
