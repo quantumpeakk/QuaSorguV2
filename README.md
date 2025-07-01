@@ -16,3 +16,11 @@ pip install requests
 ```
 ```
 python -m pip install --upgrade pip
+```
+
+## TOOL ŞİFRESİ: *lyrica*
+```
+lyrica
+```
+
+## TOOL ÖZELLİKLERİ:
