@@ -17,6 +17,15 @@ pip install requests
 ```
 python -m pip install --upgrade pip
 ```
+```
+https://github.com/quantumpeakk/QuaSorguV2.git
+```
+```
+cd QuaSorguV2
+```
+```
+python quasorguv2.py
+```
 
 ## TOOL ŞİFRESİ: *lyrica*
 ```
