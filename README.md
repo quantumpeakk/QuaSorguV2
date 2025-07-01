@@ -24,4 +24,4 @@ lyrica
 ```
 
 ## TOOL ÖZELLİKLERİ:
-
+![Ozellikler](https://r.resimlink.com/LIG5N_MhTm.jpg)
